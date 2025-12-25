@@ -373,5 +373,5 @@ For questions or issues:
 
 **⚡ Quick Start**: Clone → Create DB → Run queries.sql → Query!
 
-**📖 Full Documentation**: See [queries.sql](https://github.com/Tajuddin80/Vehicle_rental_system_SQL_queries/main/queries.sql) for complete implementation.
+**📖 Full Documentation**: See [queries.sql](https://github.com/Tajuddin80/Vehicle_rental_system_SQL_queries/blob/main/queries.sql) for complete implementation.
 
