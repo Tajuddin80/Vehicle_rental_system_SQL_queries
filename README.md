@@ -329,7 +329,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- GitHub: [https://github.com/Tajuddin80/Vehicle_rental_system_SQL_queries/](https://github.com/Tajuddin80/Vehicle_rental_system_SQL_queries/)
+- GitHub: [https://github.com/Tajuddin80/](https://github.com/Tajuddin80/)
 - LinkedIn: [https://www.linkedin.com/in/tajuddin80/](https://www.linkedin.com/in/tajuddin80/)
 - Email: tajuddin.cse.dev@gmail.com
 
